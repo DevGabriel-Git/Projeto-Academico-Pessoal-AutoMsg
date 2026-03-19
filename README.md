@@ -32,18 +32,6 @@ O **AutoMsg** foi criado com o objetivo de automatizar o controle de serviços e
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-src/
- ├── controllers
- ├── services
- ├── repositories
- ├── domains (models/entities)
- └── dtos
-```
-
----
 
 ## ▶️ Como rodar o projeto
 
